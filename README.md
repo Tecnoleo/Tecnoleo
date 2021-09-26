@@ -12,7 +12,7 @@ Aqui algumas curiosidades do meu novo perfil no github
     - Respondo rápidamente em poucas horas o.O;
 
    }
-
+.
    ( 🌟 Novidades )
    {
     º Projetos livres usando HTML+CSS;
