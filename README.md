@@ -4,7 +4,7 @@ Aqui algumas curiosidades do meu novo perfil no github
 {
 
    ( ✅ Qualidades ) <br>
-   {
+   { <br>
     - Atencioso;<br>
     - Cauteloso, sempre visando corrigir pequenos erros e não causar mais problemas; <br>
     - Respostas em inglês e Francês; <br>
