@@ -3,23 +3,23 @@
 Aqui algumas curiosidades do meu novo perfil no github
 {
 
-   ( ✅ Qualidades )
+   ( ✅ Qualidades ) <br>
    {
-    - Atencioso;
-    - Cauteloso, sempre visando corrigir pequenos erros e não causar mais problemas;
-    - Respostas em inglês e Francês;
-    - Disponibilidade de compromissos;
-    - Respondo rápidamente em poucas horas o.O;
+    - Atencioso;<br>
+    - Cauteloso, sempre visando corrigir pequenos erros e não causar mais problemas; <br>
+    - Respostas em inglês e Francês; <br>
+    - Disponibilidade de compromissos; <br>
+    - Respondo rápidamente em poucas horas o.O;  <br>
 
    }
 .
-   ( 🌟 Novidades )
+   ( 🌟 Novidades )<br>
    {
-    º Projetos livres usando HTML+CSS;
-    º Dicas de como trazer semântica ao código e muito mais;
+    º Projetos livres usando HTML+CSS;<br>
+    º Dicas de como trazer semântica ao código e muito mais; <br>
    }
 
-    ( 🎯 Qual o foco ?!)
+   🎯 Qual o foco ?!) <br>
     {
     R: Aprender, contribuir, criar e complementar;
 
