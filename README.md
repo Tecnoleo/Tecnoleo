@@ -14,7 +14,7 @@ Aqui algumas curiosidades do meu novo perfil no github
    }
 .
    ( 🌟 Novidades )<br>
-   {
+   {<br>
     º Projetos livres usando HTML+CSS;<br>
     º Dicas de como trazer semântica ao código e muito mais; <br>
    }
