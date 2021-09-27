@@ -20,9 +20,6 @@ Aqui algumas curiosidades do meu novo perfil no github
    }
 
    🎯 Qual o foco ?!) <br>
-    {
     R: Aprender, contribuir, criar e complementar;
-
-    }
 
 }
