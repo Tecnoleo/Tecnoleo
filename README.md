@@ -23,3 +23,5 @@ Aqui algumas curiosidades do meu novo perfil no github
     R: Aprender, contribuir, criar e complementar;
 
 }
+
+Novidades estão por vir, spoiler >> dia 18 desse mês de outubro de 2021.
