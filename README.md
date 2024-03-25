@@ -1,26 +1,25 @@
-#Eae Joia?!✌🏻 
+# Desenvolvedor .NET C#  Desenvolvedor a mais de 4 anos
 
-Aqui algumas curiosidades do meu novo perfil no github
-{
+Olá! Eu sou Leandro, um desenvolvedor apaixonado por transformar ideias em código elegante e funcional. Tenho experiência sólida em desenvolvimento de software, com foco especial em .NET C#.
 
-   ( ✅ Qualidades ) <br>
-   { <br>
-    - Atencioso;<br>
-    - Cauteloso, sempre visando corrigir pequenos erros e não causar mais problemas; <br>
-    - Respostas em inglês e Francês; <br>
-    - Disponibilidade de compromissos; <br>
-    - Respondo rápidamente em poucas horas o.O;  <br>
+## Tecnologias e Ferramentas
 
-   }
-.
-   ( 🌟 Novidades )<br>
-   {<br>
-    º Projetos livres usando HTML+CSS;<br>
-    º Dicas de como trazer semântica ao código e muito mais; <br>
-   }
+- Linguagens: C#, SQL
+- Frameworks: .NET Framework, .NET Core
+- Bibliotecas: Entity Framework, ASP.NET MVC
+- Ferramentas: Visual Studio, Git
 
-   🎯 Qual o foco ?!) <br>
-    R: Aprender, contribuir, criar e complementar;
+## Contribuições e Estatísticas
 
-}
+- Total de contribuições: 4
+- Contribuições para projetos populares em .NET C#
+
+## Contato
+
+- E-mail: atendimento@sordeia.com
+- LinkedIn:(https://www.linkedin.com/in/leandrodessantos/)
+
+Se você estiver interessado em colaborar ou tiver alguma pergunta sobre meus projetos, fique à vontade para entrar em contato!
+
+
 
